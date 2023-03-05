@@ -1,2 +1,2 @@
 # GlobalAIHub-YapayZekaProjesi
-Deprem çalışmalarında hasarların minimuma indirilmesi noktasında Yapay Zeka teknolojilerinin kullanımı
+Depreme yönelik çalışmalarda Yapay Zeka Teknolojilerinin Kullanımı
