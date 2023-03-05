@@ -1,2 +1,2 @@
-# Aygaz-Yapay-Zeka-Okuryazarl-Bitirme-Projesi
+# GlobalAIHub-YapayZekaProjesi
 Deprem çalışmalarında hasarların minimuma indirilmesi noktasında Yapay Zeka teknolojilerinin kullanımı
